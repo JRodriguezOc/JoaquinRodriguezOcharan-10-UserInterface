@@ -1,0 +1,6 @@
+\babel@toc {english}{}
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
+\beamer@sectionintoc {2}{Graphic User Interface}{4}{0}{2}
+\beamer@sectionintoc {3}{Java}{5}{0}{3}
+\beamer@sectionintoc {4}{Hierarchy}{6}{0}{4}
+\beamer@sectionintoc {5}{References}{15}{0}{5}
